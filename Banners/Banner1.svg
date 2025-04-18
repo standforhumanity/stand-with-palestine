@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <!-- Flag background stripes -->
+  <rect width="800" height="66.66" y="0" fill="#000000" />
+  <rect width="800" height="66.66" y="66.66" fill="#ffffff" />
+  <rect width="800" height="66.68" y="133.32" fill="#007A3D" />
+  
+  <!-- Red triangle on the left -->
+  <polygon points="0,0 0,200 100,100" fill="#FF0000" />
+  <text x="0" y="85" font-size="15" font-family="Arial, sans-serif" fill="white" text-anchor="middle" font-weight="bold">
+    <tspan x="420" dy="-3.5em">Israel is committing war crimes — killing over 60,000 civilians, including women and children. </tspan>
+  </text>
+
+  <!-- Text -->
+  <text x="0" y="85" font-size="15" font-family="Arial, sans-serif" fill="black" text-anchor="middle" font-weight="bold">
+ 
+    <tspan x="420" dy="1.8em"> It's a genocide Please help us defend freedom and the fundamental human right to exist.</tspan>
+  </text>
+  <a href="https://stand-with-palestine.vercel.app">
+    <!-- Text -->
+  <text x="0" y="85" font-size="15" font-family="Arial, sans-serif" fill="white" text-anchor="middle" font-weight="bold" dominant-baseline="middle" >
+    <tspan x="400" dy="5.8em" dominant-baseline="middle">Help Humanity Now ➔</tspan>
+
+  </text>
+  </a>
+</svg>
