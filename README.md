@@ -1,6 +1,6 @@
 This repository contains **Readme Banners** (and some useful docs) that can be used by OSS projects to spread the word, support and help Palestine in this disastrous situation. Like this **(click to open)**:
 
-[![Stand With Palestine](https://github.com/zubair-shah/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app/)
+[![Stand With Palestine](https://github.com/standforhumanity/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app/)
 
 ## For Maintainers and Authors
 
