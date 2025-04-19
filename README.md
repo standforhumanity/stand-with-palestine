@@ -41,9 +41,10 @@ Include a section like this in your README:
 > 🇵🇸 I stand with **Palestine**.  
 > My profile and this project are dedicated to **Gaza** and every innocent soul affected by war, apartheid, and injustice.  
 > #StandForHumanity #FreePalestine
+
 Or use this banner:
 Copy
-[![Stand with Palestine](https://img.shields.io/badge/Stand-With%20Palestine-red?style=flat-square)](https://github.com/standforhumanity/readme-for-palestine)
+[![Stand With Palestine](https://github.com/standforhumanity/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app/)
 
 ### 🛠️ 2. Contribute to This Repository
 Help us improve and translate this README into:
