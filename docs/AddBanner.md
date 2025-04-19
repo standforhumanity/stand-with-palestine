@@ -6,7 +6,7 @@
 2. Add a single line on top of it:
 
 ```md
-[![Stand With Palestine](https://github.com/zubair-shah/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app)
+[![Stand With Palestine](https://github.com/standforhumanity/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app)
 ```
 
 **Examples:** [zubair](https://github.com/zubair-shah) (private profile)
