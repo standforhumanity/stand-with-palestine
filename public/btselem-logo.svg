@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+  <rect width="200" height="100" fill="#FFFFFF"/>
+  <text x="100" y="50" font-family="Arial" font-size="16" text-anchor="middle" fill="#000000">B'Tselem</text>
+  <rect x="40" y="30" width="40" height="40" fill="#000000"/>
+</svg>
